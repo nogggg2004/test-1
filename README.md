@@ -28,6 +28,6 @@
   var display = new.toLocaleTimeString();
   document.write("현재 시간은 " + display);
   </script>
-  '''
+```
 
 ![아기 고양이](./images/favourites.png)

@@ -22,3 +22,10 @@
 를 입력할 때 씁니다.
 아마도?
 ``
+
+```<script>
+  var now = new Date();
+  var display = new.toLocaleTimeString();
+  document.write("현재 시간은 " + display);
+  </script>
+  '''
